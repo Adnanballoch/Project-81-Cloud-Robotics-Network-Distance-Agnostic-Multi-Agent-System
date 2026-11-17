@@ -1,7 +1,7 @@
-# Project 81: Cloud Robotics Network — Distance-Agnostic Multi-Agent System
+# Project 81: Cloud Robotics Network: Distance-Agnostic Multi-Agent System
 
 **Category:** AI Robotics / Cloud
-**Part of:** AutoMatrixLab — 100+ AI and automation apps
+**Part of:** AutoMatrixLab
 
 ## Overview
 
@@ -13,9 +13,11 @@ Azure Web App, Azure OpenAI, Azure Speech, Cloud Architecture
 
 ## Demo
 
+[![Cloud Robotics Network: Distance-Agnostic Multi-Agent System](https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/posters/project-81-cloud-robotics-network-distance-agnostic-multi-agent-system.jpg)](https://automatrixlab.com/projects/project-81-cloud-robotics-network-distance-agnostic-multi-agent-system/)
+
 🎬 **Watch the demo:** https://pub-8fffa989726b4801a4a9614a257247e5.r2.dev/videos/81.mp4
 
-🌐 **See it on the site:** https://automatrixlab.com/#applications
+🌐 **See it on the site:** https://automatrixlab.com/projects/project-81-cloud-robotics-network-distance-agnostic-multi-agent-system/
 
 ## Access Full Source Code & Live Demo
 
@@ -25,7 +27,7 @@ This repository shows the project overview, tech stack, and demo link. For full 
 
 ## About AutoMatrixLab
 
-AutoMatrixLab is a research, education, and industry platform with over 100 AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open — by one senior lecturer and his students — with no institutional funding.
+AutoMatrixLab is a research, education, and industry platform of AI and automation applications built in-house on local NVIDIA infrastructure. Every app was designed and deployed in the open.
 
 🌐 Website: https://automatrixlab.com
 📧 Contact: adnan.balloch@outlook.com
